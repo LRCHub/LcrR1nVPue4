@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Hey! little girl",
+  "base_artist": "るか・もな from AIKATSU☆STARS!",
+  "createdAt": "2025-12-24T08:16:29.413469Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hey, Little Girl",
+      "artist": "ICEHOUSE",
+      "has_synced": true,
+      "path": "select/01_Hey,_Little_Girl_ICEHOUSE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hey Little Girl",
+      "artist": "Icehouse",
+      "has_synced": true,
+      "path": "select/02_Hey_Little_Girl_Icehouse.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hey, Little Girl",
+      "artist": "Icehouse",
+      "has_synced": true,
+      "path": "select/03_Hey,_Little_Girl_Icehouse.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hey Little Girl",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/04_Hey_Little_Girl_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hey Little Girl",
+      "artist": "Del Shannon",
+      "has_synced": true,
+      "path": "select/05_Hey_Little_Girl_Del_Shannon.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hey Little Girl (stereo; w/o overdubs)",
+      "artist": "Del Shannon",
+      "has_synced": false,
+      "path": "select/06_Hey_Little_Girl_(stereo;_w_o_overdubs)_Del_Shannon.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hey Little Girl (stereo; w\u0000o overdubs)",
+      "artist": "Del Shannon",
+      "has_synced": false,
+      "path": "select/07_Hey_Little_Girl_(stereo;_w\u0000o_overdubs)_Del_Shannon.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hey, Little Girl",
+      "artist": "The Sylvers",
+      "has_synced": false,
+      "path": "select/08_Hey,_Little_Girl_The_Sylvers.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hey Little Girl (Foster Sylvers) (Bonus Track)",
+      "artist": "The Sylvers",
+      "has_synced": false,
+      "path": "select/09_Hey_Little_Girl_(Foster_Sylvers)_(Bonus_Track)_The_Sylvers.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hey Little Girl",
+      "artist": "Donny Osmond",
+      "has_synced": false,
+      "path": "select/10_Hey_Little_Girl_Donny_Osmond.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hey Little Girl",
+      "artist": "Icehouse",
+      "has_synced": true,
+      "path": "select/11_Hey_Little_Girl_Icehouse.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hey Little Girl",
+      "artist": "Dee Clark",
+      "has_synced": false,
+      "path": "select/12_Hey_Little_Girl_Dee_Clark.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hey, Little Girl",
+      "artist": "Dee Clark",
+      "has_synced": false,
+      "path": "select/13_Hey,_Little_Girl_Dee_Clark.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hey Little Girl",
+      "artist": "Dee Clark",
+      "has_synced": true,
+      "path": "select/14_Hey_Little_Girl_Dee_Clark.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hey! little girl",
+      "artist": "るか・もな from AIKATSU☆STARS!",
+      "has_synced": false,
+      "path": "select/pl_01_Hey!_little_girl_るか・もな_from_AIKATSU☆STARS!.txt"
+    }
+  ]
+}
